@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loscai
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c#, Python and Java
 - 💞️ I’m looking to collaborate on ... I don't know I'm still a student
 - 📫 How to reach me ... christiancolombo2k5@gmail.com
 
