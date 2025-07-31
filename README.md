@@ -1,17 +1,32 @@
-- 👋 Hi, I’m Christian Colombo, A.K.A. @loscai
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP, Java, Python.
-- I already know:
-- C++;
-- Java;
-- Python;
-- C#;
-- Web development with HTML, CSS, JS;
-- I have expereience with Arduino UNO, also with connection to the PC, via C# & Serial Port;
-- 💞️ I’m looking to collaborate on ... I don't know I'm still a student
-- 📫 How to reach me ... christiancolombo2k5@gmail.com
+👋 Hi, I'm Christian Colombo (@loscai)
+💻 Software Developer & Programming Enthusiast from Como, Italy
+I'm a passionate programmer currently completing my studies at IIS Jean Monnet, with hands-on experience in developing internal software solutions that improve business efficiency.
+🔧 Tech Stack & Skills
+Programming Languages:
 
-<!---
-loscai/loscai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+C++ | C# | Java | Python
+Web Development: HTML, CSS, JavaScript, PHP
+Database: MySQL
+Scripting: Batch, Bash
+
+Tools & Technologies:
+
+Arduino UNO programming and PC integration
+Microsoft Office Suite
+Version Control with Git
+
+🚀 Featured Projects
+🏆 Tournament Manager - A complete tournament management system supporting up to 16 teams with direct elimination format, including file management and result tracking.
+📈 Market Tracker - Interactive Python application for stock market visualization using Yahoo Finance data, featuring price history, volume analysis, and 50-day moving averages.
+💼 Professional Experience
+Recently worked as a Programmer and Event Manager at XC Engineering, where I developed internal software solutions that significantly improved operational efficiency and created developer support tools for rapid keyword identification.
+🌱 Currently Learning & Growing
+Continuously expanding my knowledge in web development, database management, and software optimization. Always eager to take on new challenges and collaborate on innovative projects.
+📫 Let's Connect
+
+Email: christiancolombo2k5@gmail.com
+Location: Cantù, Italy
+Open to: Internships, collaborative projects, and learning opportunities
+
+
+"Determined, results-oriented, and always ready to take on new challenges to grow professionally."
