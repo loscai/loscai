@@ -17,7 +17,9 @@ Version Control with Git
 
 🚀 Featured Projects
 🏆 Tournament Manager - A complete tournament management system supporting up to 16 teams with direct elimination format, including file management and result tracking.
+
 📈 Market Tracker - Interactive Python application for stock market visualization using Yahoo Finance data, featuring price history, volume analysis, and 50-day moving averages.
+
 💼 Professional Experience
 Recently worked as a Programmer and Event Manager at XC Engineering, where I developed internal software solutions that significantly improved operational efficiency and created developer support tools for rapid keyword identification.
 🌱 Currently Learning & Growing
